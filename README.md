@@ -6,7 +6,7 @@
 - 😄 Pronouns: N/A
 - ⚡ fun fact: I turn numbers into stories and data into strategies. 
 A data analyst with a passion for discovering patterns and providing creative solutions.
-- ⚡ Real fact: Tha's my goal in the next edge
+- ⚡ Real fact: That's my goal in the next edge
 <!---
 chouroukdoghmane/chouroukdoghmane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
