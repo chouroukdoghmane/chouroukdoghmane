@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chouroukdoghmane
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Python & Sql
-- 💞️ I’m looking to collaborate on Reale Estate projects using Python
+- 💞️ I’m looking to collaborate on projects using Python
 - 📫 How to reach me Gmail: chouroukdoghmane16@gmail.com
 - 😄 Pronouns: N/A
 - ⚡ fun fact: I turn numbers into stories and data into strategies. 
