@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chouroukdoghmane
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in Data Analysis & Data Science
 - 🌱 I’m currently learning Excel, SQL, Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Gmail: chouroukdoghmane16@gmail.com
